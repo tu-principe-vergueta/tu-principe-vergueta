@@ -9,7 +9,6 @@
 - 💻 Codifico como entreno: sin descanso. Backend desde `C++` hasta `Python`.
 - 👊 Final Flash a tus bugs. Pull requests limpios o destruidos. No acepto PRs sin pruebas unitarias. 
 - 👑 Lidero proyectos desde Capsule Corp hasta Namek
----
 
 ### 🧪 Niveles de Poder
 ```yaml
