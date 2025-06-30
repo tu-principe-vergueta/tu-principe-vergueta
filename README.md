@@ -6,10 +6,9 @@
 
 ### ⚔️ Sobre mí
 - 🧠 **Desarrollador Fullstack de élite** – pero el backend es mi campo de batalla  
-- ⚙️ Escribo código en: , `C++`, `Rust`, `TypeScript`, `Go`  
-- ☁️ Cloud-ready: **AWS**, **Azure**, **SaiyanCI/CD**  
+- 💻 Codifico como entreno: sin descanso. Backend desde `C++` hasta `Python`.
+- 👊 Final Flash a tus bugs. Pull requests limpios o destruidos. No acepto PRs sin pruebas unitarias. 
 - 👑 Lidero proyectos desde Capsule Corp hasta Namek
-
 ---
 
 ### 🧪 Niveles de Poder
